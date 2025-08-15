@@ -1,4 +1,4 @@
-# plant-disease-recognition-DL-cnn
+# Plant-Disease-Recognition-DL-CNN
 A Deep Learning-based Convolutional Neural Network (CNN) model for accurate plant disease recognition from leaf images. Helps farmers and researchers detect and classify plant diseases efficiently, supporting sustainable agriculture and crop health management. This project helps **farmers, researchers, and agricultural experts** detect and classify plant diseases efficiently, supporting **sustainable agriculture** and **crop health management**.
 
 ## 🌱 Features
@@ -10,10 +10,10 @@ A Deep Learning-based Convolutional Neural Network (CNN) model for accurate plan
 
 ## 📂 Project Structure
 
-├── DockerFile                        # Docker setup for deployment
-├── Plant\_disease\_prediction\_CNN\_...  # Jupyter Notebook or training script
-├── main.py                            # Main application file
-├── README.md                          # Project documentation
+ DockerFile                        # Docker setup for deployment
+PlantdiseasepredictionCNN.ipynb  # Jupyter Notebook or training script
+ main.py                            # Main application file
+ README.md                          # Project documentation
 
 
 ## 🛠️ Technologies Used
